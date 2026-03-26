@@ -16,13 +16,6 @@
         alt="gitanimals"
       />
 </a>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/HanuKim"
-  width="600"
-  height="300"
-/>
-</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
