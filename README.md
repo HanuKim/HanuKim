@@ -9,14 +9,7 @@
 </a>
 <!--
 **HanuKim/HanuKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://github.com/devxb/gitanimals">
-      <img
-        src="https://render.gitanimals.org/guilds/681112822797579739/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-</a>
+
 <!-- <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/HanuKim"
@@ -25,10 +18,7 @@
 />
 </a> -->
 
-
----
-
-## About Me
+# About Me
 안녕하세요, 2년 차 소프트웨어 개발자입니다. 기술 뿐만 아니라 삶의 다양한 문제들을 해결할 수 있는 사람이 되기 위해 노력하고 있습니다.
 JavaScript와 Node.js를 중심으로 웹 개발을 하고 있고, 
 
@@ -40,7 +30,7 @@ JavaScript와 Node.js를 중심으로 웹 개발을 하고 있고,
 
 감사합니다.
 
---- 
+---
 
 Hi, I'm a software developer with 2 years of experience. I aim to solve problems that matter—beyond just code.
 I primarily work with JavaScript and Node.js.
@@ -55,7 +45,7 @@ Thanks for visiting!
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 ### 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -99,13 +89,15 @@ Thanks for visiting!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 
 ---
 
-## 🚀 Interests
+# 👾 Interests
 * Web Development (Frontend & Backend)
 * Scalable System Design
-* AI Fine-tuning & Applied AI
-* Building fun and meaningful side projects
+* AX & Applied AI
+* Building fun and meaningful projects
 
 
