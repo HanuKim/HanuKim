@@ -6,6 +6,7 @@
   height="300"
 />
 </a>
+<br>
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/703826601923992678/draw"
@@ -13,7 +14,7 @@
         height="300"
         alt="gitanimals"
       />
-    </a>
+</a>
 <!--
 **HanuKim/HanuKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
