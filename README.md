@@ -1,11 +1,11 @@
-# Hi there 🐾
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HanuKim&utm_content=farm">
+# Hi there, 안녕하세요! 🐾
+<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HanuKim&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/HanuKim"
   width="600"
   height="300"
 />
-</a>
+</a> -->
 <br>
 <a href="https://www.gitanimals.org/">
       <img
