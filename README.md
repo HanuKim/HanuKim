@@ -6,8 +6,8 @@
   height="300"
 />
 </a>
-<br>
-<!-- <a href="https://www.gitanimals.org/">
+<!-- <br>
+ <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/703826601923992678/draw"
         width="600"
@@ -30,32 +30,41 @@
 
 # 🍀 About Me 
 안녕하세요, 2년 차 소프트웨어 개발자입니다. 
-기술 뿐만 아니라 삶의 다양한 문제들을 해결할 수 있는 사람이 되기 위해 노력하고 있습니다. 
-주로 JavaScript와 Node.js를 이용한 웹 개발을 하고 있습니다. 
+기술 뿐만 아니라 삶의 다양한 문제들을 해결할 수 있는 사람이 되기 위해 노력하고 있습니다. <br>
+주로 JavaScript와 Node.js를 이용해 웹 개발을 하고 있습니다. 
 
-아이디어를 떠올리고, 그것을 실제로 구현하는 과정을 즐깁니다. 그래서 종종 뜬금없는(?) 프로젝트들이 올라올 수 있습니다. 
+아이디어를 떠올리고, 실제로 구현하는 과정을 즐깁니다. 그래서 종종 뜬금없는(?) 프로젝트들이 올라올 수 있습니다. 
 저에게 프로그래밍은 단순한 기술을 넘어, 생각을 현실로 만드는 과정입니다.
 
 프론트엔드로 커리어를 시작했지만, 현재는 백엔드, 데이터베이스 설계, 그리고 최근에는 AI 파인튜닝까지 경험을 확장하고 있습니다. 
 그래서 이 저장소에서는 다양한 기술과 방향성의 프로젝트들이 공존하는 모습을 보실 수 있을 겁니다! 
 
-완성도 높고 신뢰할 수 있는 서비스를 만드는 것을 목표로 하며, 
-항상 더 나은 선택을 고민하고 책임질 수 있는 코드를 작성하려고 노력합니다. 
+완성도 높고 신뢰할 수 있는 서비스를 만드는 것을 목표로 하며, <br>
+항상 더 나은 선택을 고민하고 신뢰할 수 있는 코드를 작성하려고 노력합니다. 
 
-감사합니다.
+피드백이나 궁금증이 있다면 아래 이메일 주소로 언제든 연락주세요! <br>
+
+📧 dev.hanulkim@gmail.com
+
+방문해주셔서 감사합니다. :) 
 
 ---
 
-Hi, I'm a software developer with 2 years of experience. I aim to solve problems that matter—beyond just code.
-I primarily work with JavaScript and Node.js.
+I'm a software engineer with 2 years of experience, constantly striving to become someone who can solve not only technical challenges but also problems in everyday life.
 
-I enjoy thinking about ideas and turning them into real, working products. You might find experimental or fun side projects here from time to time—this is actually one of the main reasons I love programming.
+My primary focus is web development using JavaScript and Node.js.
 
-I started my career in frontend development, but I’ve been expanding my experience into backend systems, database design, and recently AI fine-tuning. So you may come across a variety of unexpected projects in this repository.
+I enjoy turning ideas into reality through code. That's why you might find some unexpected (and occasionally quirky) projects in this repository. To me, programming is more than just a technical skill—it's a way to bring thoughts and ideas into the real world.
 
-My goal is to build high-quality, reliable services. I strive to write responsible code by constantly thinking about the best possible solutions.
+Although I started my career as a frontend developer, I've been expanding my expertise into backend development, database design, and more recently, AI fine-tuning. As a result, you'll find projects here that span a variety of technologies and interests.
 
-Thanks for visiting!
+My goal is to build reliable, high-quality services that people can trust. I'm always looking for better solutions and striving to write clean, maintainable, and dependable code.
+
+If you have any feedback, questions, or just want to connect, feel free to reach out:
+
+📧 dev.hanulkim@gmail.com
+
+Thanks for visiting! :)
 
 ---
 
